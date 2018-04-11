@@ -1,0 +1,8 @@
+package com.acme.PACKAGE;
+
+public class SampleClass {
+
+    public static void main(String[] args) {
+        System.out.println("just many packages");
+    }
+}
